@@ -19,4 +19,4 @@ and delete them. The tasks are saved in the browser using 'localStorage'
 # Instalation
 clone the repository
 '''bash
-git clone https://github.com/tu-usuario/todo-list.git
+git clone https://github.com/your-username/todo-list.git
